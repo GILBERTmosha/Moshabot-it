@@ -1,5 +1,3 @@
-
-<!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
@@ -9,91 +7,59 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/jxeidh.png" width="85%\" height="auto">
+  <img src="https://files.catbox.moe/jxeidh.png" width="85%" height="auto">
 </p>
-
 
 ---
 
-## 📌 **How to Connect BWM XMD Bot**
+## 📌 **Jinsi ya Kuunganisha Moshabot**
 
-### **Step 1: Get Session ID**
-Click the button below to quickly generate your WhatsApp session ID:
+### **Hatua ya 1: Pata Session ID**
+Bofya kitufe hapa chini ili kupata kodi (Session ID) ya kuunganisha WhatsApp yako:
 
 <p align="center">
   <a href="https://main.bwmxmd.online/scanner" target="_blank">
-    <img src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&color=FF0000" width="260" height="50"/>
+    <img src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&color=00FF00" width="260" height="50"/>
   </a>
 </p>
 
-### **Step 2: Configure Settings**
-Before deployment, configure your bot:
-- **Option A:** Edit `config.env` file
-- **Option B:** Use environment variables on your hosting platform
+### **Hatua ya 2: Rekebisha Mipangilio**
+Kabla ya kuwasha bot, rekebisha:
+- **Njia A:** Hariri faili la `config.env`
+- **Njia B:** Tumia "Environment Variables" kwenye hosting unayotumia
 
-### **Step 3: Choose Hosting Platform**
-Deploy the bot on your preferred platform.
+### **Hatua ya 3: Chagua Sehemu ya Kurushia (Hosting)**
+Weka bot yako hewani kupitia platform unayopenda:
 
 <p align="center">
   <a href="https://pro.bwmxmd.co.ke" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_BWM_XMD_PRO-000000?style=for-the-badge&color=FF00F" width="200" height="45"/>
+    <img src="https://img.shields.io/badge/🚀_MOSHA_BOT_PRO-000000?style=for-the-badge&color=00FF00" width="200" height="45"/>
   </a>
    <a href="https://main.bwmxmd.co.ke/Deploy" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_HEROKU-000000?style=for-the-badge&color=FF00FF" width="200" height="45"/>
+    <img src="https://img.shields.io/badge/🚀_HEROKU-000000?style=for-the-badge&color=430098" width="200" height="45"/>
   </a>
   <a href="https://render.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀_RENDER-000000?style=for-the-badge&color=61DAFB" width="200" height="45"/>
   </a>
-  <a href="https://railway.app?referralCode=AqkNn4" target="_blank">
+  <a href="https://railway.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_RAILWAY-000000?style=for-the-badge&color=purple" width="200" height="45"/>
   </a>
 </p>
 
-<br>
-
-<!-- 🎥 VIDEO TUTORIAL - GitHub README Compatible -->
-<p align="center">
-  <strong>🎬 Watch Full Deployment Tutorial (2026)</strong><br>
-  <em>How to deploy BWM XMD on its own hosting - No Deployer Needed!</em>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/4r5OewBgLIs?si=azJ2ByJjZu5ZjrOC" target="_blank">
-    <img src="https://img.shields.io/badge/📺_WATCH_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/4r5OewBgLIs?si=azJ2ByJjZu5ZjrOC" target="_blank">
-    <img src="https://img.youtube.com/vi/4r5OewBgLIs/0.jpg" width="400" height="225" alt="BWM XMD Deployment Tutorial">
-  </a>
-  <br>
-  <sub>⚠️ <strong>Click the image or button above to watch on YouTube</strong> (GitHub does not support embedded video players)</sub>
-</p>
-
-### **Step 4: Start Using**
-Once configured, your bot will be ready to use!
-
 ---
 
-## 🖼️ **Bot Screenshots**
+## 🖼️ **Picha za Bot (Screenshots)**
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://files.catbox.moe/i5ax9j.jpg" width="300"><br>
-        <small><i>Bot Interface</i></small>
+        <small><i>Muonekano wa Bot</i></small>
       </td>
       <td align="center">
         <img src="https://files.catbox.moe/h316gy.jpg" width="300"><br>
-        <small><i>Features Panel</i></small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://files.catbox.moe/7xz8lv.jpg" width="320"><br>
-        <small><i>Control Panel</i></small>
+        <small><i>Panel ya Sifa</i></small>
       </td>
     </tr>
   </table>
@@ -101,54 +67,39 @@ Once configured, your bot will be ready to use!
 
 ---
 
-## 🔧 **Additional Resources**
-
-<p align="center">
-  <a href="https://main.bwmxmd.online/Panel_files" target="_blank">
-    <img src="https://img.shields.io/badge/📁_PANEL_FILES-000000?style=for-the-badge&color=FFA500" width="260" height="50"/>
-  </a>
-</p>
-
----
-
-## 📢 **Stay Updated**
+## 📢 **Habari Zaidi**
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbAuCjELtOj5n8Lv9h3d" target="_blank">
-    <img src="https://img.shields.io/badge/📢_WHATSAPP_CHANNEL-25d366?style=for-the-badge&logo=whatsapp" width="300" height="50"/>
-  </a>
-  <br>
-  <a href="https://bwmxmd.co.ke" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_WEBSITE-bwmxmd.co.ke-000000?style=for-the-badge" width="300" height="50"/>
+    <img src="https://img.shields.io/badge/📢_JIUNGE_CHANNEL-25d366?style=for-the-badge&logo=whatsapp" width="300" height="50"/>
   </a>
 </p>
 
 ---
 
-## 📊 **Stats**
+## 📊 **Takwimu**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bwmxmd254&label=Profile+Views&color=FF0000&style=for-the-badge" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/Bwmxmd254?label=GitHub+Followers&style=for-the-badge&color=00FF00" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=GILBERTmosha&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/GILBERTmosha?label=Followers&style=for-the-badge&color=00FF00" alt="Followers"/>
 </p>
 
 ---
 
-## 🟢 **Status**
+## 🟢 **Hali ya Bot**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bwmxmd254/Bwmxmd254/main/assets/statusbar.gif" height="25">
   <br>
-  <span style="font-size:1.2em; color:#00FF00;">Status: <b>🟢 ONLINE</b></span>
+  <span style="font-size:1.2em; color:#00FF00;">Hali: <b>🟢 IPO HEWANI (ONLINE)</b></span>
 </p>
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
 <p align="center">
-  <strong>MOSHA BOT  PRO © 2026 | Developed by Gilbert Mosha</strong>
+  <strong>MOSHA BOT PRO © 2026 | Imetengenezwa na Gilbert Mosha</strong>
 </p>
