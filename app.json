@@ -1,11 +1,11 @@
 
 {
-  "name": "BWM-XMD",
-  "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
+  "name": "Moshabot",
+  "description": "Hii ni bot ya Gilbert Mosha..."",
   "keywords": [
     "bot",
     "whatsapp",
-    "BWM-XMD",
+    "Moshabot",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -54,7 +54,7 @@
     },
     "TIMEZONE": {
       "description": "Timezone for the bot",
-      "value": "Africa/Nairobi",
+      "value": "Africa/TANZANIA",
       "required": false
     },
     "AUTHOR": {
@@ -134,7 +134,7 @@
     },
     "STATUS_LIKE_EMOJIS": {
       "description": "Comma-separated emojis for liking status",
-      "value": "❤️,💜,💙,🤍,💛",
+      "value": "❤️,💜,💙,🤍,💛,🙏, 🤝,🇹🇿,🌊,🔥,🐉,🤔, 🥰",
       "required": false
     },
     "CHATBOT": {
