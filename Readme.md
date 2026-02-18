@@ -15,7 +15,7 @@
 ## 📌 **Jinsi ya Kuunganisha Moshabot**
 
 ### **Hatua ya 1: Pata Session ID**
-Bofya kitufe hapa chini ili kupata kodi yako ya kuunganishia:
+Bofya kitufe hapa chini ili kupata kodi yako ya kuunganishia (Session ID):
 
 <p align="center">
   <a href="https://main.bwmxmd.online/scanner" target="_blank">
@@ -23,17 +23,56 @@ Bofya kitufe hapa chini ili kupata kodi yako ya kuunganishia:
   </a>
 </p>
 
+### **Hatua ya 2: Rekebisha Mipangilio**
+Kabla ya kuwasha bot, kamilisha mipangilio hii:
+- **Njia A:** Hariri faili la `config.env` (Weka Session ID na Namba yako).
+- **Njia B:** Tumia "Environment Variables" kwenye hosting yako.
+
+### **Hatua ya 3: Chagua Sehemu ya Kurushia (Hosting)**
+Weka Moshabot hewani kupitia platform unayopenda:
+
+<p align="center">
+  <a href="https://main.bwmxmd.co.ke/Deploy" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_HEROKU-000000?style=for-the-badge&color=430098" width="200" height="45"/>
+  </a>
+  <a href="https://render.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_RENDER-000000?style=for-the-badge&color=61DAFB" width="200" height="45"/>
+  </a>
+  <a href="https://railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_RAILWAY-000000?style=for-the-badge&color=purple" width="200" height="45"/>
+  </a>
+</p>
+
 ---
 
 ## 📢 **Baki Nasi (Stay Updated)**
 
-Hapa ndipo utapata taarifa zote mpya kuhusu Moshabot:
+Bofya hapa chini kujiunga na channel yetu rasmi ya updates:
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbCCcBc7T8bQ4692hi3g" target="_blank">
     <img src="https://img.shields.io/badge/📢_MOSHABOT_CHANNEL-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="320" height="60"/>
   </a>
 </p>
+
+---
+
+## 🖼️ **Picha za Bot (Screenshots)**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://files.catbox.moe/i5ax9j.jpg" width="300"><br>
+        <small><i>Muonekano wa Bot</i></small>
+      </td>
+      <td align="center">
+        <img src="https://files.catbox.moe/h316gy.jpg" width="300"><br>
+        <small><i>Features Panel</i></small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
