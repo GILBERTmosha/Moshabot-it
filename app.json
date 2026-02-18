@@ -24,8 +24,8 @@
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Namba ya mmiliki (Mfano: 254793770731)",
-      "value": "254793770731",
+      "description": "Namba ya mmiliki (Mfano: 255793770731)",
+      "value": "255793770731",
       "required": true
     },
     "DATABASE_URL": {
