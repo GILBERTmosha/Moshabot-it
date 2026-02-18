@@ -5,13 +5,13 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+BWM+XMD+PRO;🔥+WhatsApp+Bot;💻+By+Ibrahim+Adams" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🚀+MOSHABOT+PRO;🔥+WhatsApp+Bot;💻+By+Gilbert+Mosha" alt="Typing Animation">
 </h1>
 
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://files.catbox.moe/bkuj17.jpg" width="85%" height="auto">
+  <img src="https://files.catbox.moe/jxeidh.png" width="85%\" height="auto">
 </p>
+
 
 ---
 
